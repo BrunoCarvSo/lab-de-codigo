@@ -9,10 +9,10 @@ public class Reserva
 	public void CadastrarHospedes(List<Pessoa> hospedesInput)
 	{
 
-			foreach (Pessoa pessoa in hospedesInput)
-				{
-				hospedes.Add(pessoa);
-				}
+		foreach (Pessoa pessoa in hospedesInput)
+			{
+			hospedes.Add(pessoa);
+			}
 	}
 
 	public void CadastrarSuite(Suite suiteInput)
