@@ -1,0 +1,15 @@
+C:\Users\nbmad\source\repos\BrunoCarvSo\lab-de-codigo\Celular\obj\Debug\net9.0\Celular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nbmad\source\repos\BrunoCarvSo\lab-de-codigo\Celular\obj\Debug\net9.0\Celular.AssemblyInfoInputs.cache
+C:\Users\nbmad\source\repos\BrunoCarvSo\lab-de-codigo\Celular\obj\Debug\net9.0\Celular.AssemblyInfo.cs
+C:\Users\nbmad\source\repos\BrunoCarvSo\lab-de-codigo\Celular\obj\Debug\net9.0\Celular.csproj.CoreCompileInputs.cache
+C:\Users\nbmad\source\repos\BrunoCarvSo\lab-de-codigo\Celular\obj\Debug\net9.0\Celular.sourcelink.json
+C:\Users\nbmad\source\repos\BrunoCarvSo\lab-de-codigo\Celular\bin\Debug\net9.0\Celular.exe
+C:\Users\nbmad\source\repos\BrunoCarvSo\lab-de-codigo\Celular\bin\Debug\net9.0\Celular.deps.json
+C:\Users\nbmad\source\repos\BrunoCarvSo\lab-de-codigo\Celular\bin\Debug\net9.0\Celular.runtimeconfig.json
+C:\Users\nbmad\source\repos\BrunoCarvSo\lab-de-codigo\Celular\bin\Debug\net9.0\Celular.dll
+C:\Users\nbmad\source\repos\BrunoCarvSo\lab-de-codigo\Celular\bin\Debug\net9.0\Celular.pdb
+C:\Users\nbmad\source\repos\BrunoCarvSo\lab-de-codigo\Celular\obj\Debug\net9.0\Celular.dll
+C:\Users\nbmad\source\repos\BrunoCarvSo\lab-de-codigo\Celular\obj\Debug\net9.0\refint\Celular.dll
+C:\Users\nbmad\source\repos\BrunoCarvSo\lab-de-codigo\Celular\obj\Debug\net9.0\Celular.pdb
+C:\Users\nbmad\source\repos\BrunoCarvSo\lab-de-codigo\Celular\obj\Debug\net9.0\Celular.genruntimeconfig.cache
+C:\Users\nbmad\source\repos\BrunoCarvSo\lab-de-codigo\Celular\obj\Debug\net9.0\ref\Celular.dll
