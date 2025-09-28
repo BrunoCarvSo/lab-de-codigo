@@ -1,6 +1,7 @@
 # Ignore Visual Studio temporary files
 # Visual Studio cache
 /.vs/
+.vs/
 *.suo
 *.user
 
